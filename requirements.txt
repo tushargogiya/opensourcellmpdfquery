@@ -3,3 +3,4 @@ chromadb
 openai
 pdfplumber
 bitsandbytes
+langchain-community
